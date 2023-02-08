@@ -2,9 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./about.html).
+# About
+<b>About</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
 
 There should be whitespace between paragraphs.
 
