@@ -2,10 +2,10 @@
 >
 >
 ## School of Arts and Humanities, University of Lisbon
-<p>Bachelor's Degree in Languages and Literature (Minor in Translation and English studies)</p>
+Bachelor's Degree in Languages and Literature (Minor in Translation and English studies)
 <i>September 2016 - January 2020</i>
 
-<p>Post Graduate Degree in Translation</p>
+Post Graduate Degree in Translation
 <i>September 2020 - July 2021</i>
 
 <p align="center">
@@ -16,7 +16,8 @@
     />
 </p>
 
-<header> </header>
+
+
 >
 >
 ## 4Geeks Academy FullStack Bootcamp
