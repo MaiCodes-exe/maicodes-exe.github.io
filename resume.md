@@ -2,8 +2,12 @@
 >
 >
 ## University of Lisbon
-Bachelor's Degree in Languages and Literature
+Bachelor's Degree in Languages and Literature (Minor in Translation and English studies)
 <i>September 2016 - January 2020</i>
+
+Post Graduate Degree in Translation
+<i>September 2020 - July 2021</i>
+
 <p align="center">
     <img
         alt="UT Center for Professional Education"
@@ -11,3 +15,5 @@ Bachelor's Degree in Languages and Literature
         width="400"
     />
 </p>
+
+## 4Geeks Academy FullStack Bootcamp
