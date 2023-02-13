@@ -37,8 +37,7 @@ Post Graduate Degree in Translation
 >
 >
 
-## Solvay
-<i> August 2021 - Present </i>
+## Solvay <i> August 2021 - Present </i>
 
 <p align="center">
     <img
@@ -49,8 +48,16 @@ Post Graduate Degree in Translation
 </p>
 
 ### HR Operations and Data Admin
->
->
+* Solving internal and external customers tickets
+* Managing organizational charts
+* Creating and managing users in the system
+* Facilitating the management of user data (i.e vacation, end of contract date and personal information)
 
 ### HR Knowledge Coordinator
+* Collecting and organizing HR knowledge from different departments from 64 countries
+* Curating and publishing the knowledge in the company's internal library
+
 ### Data Migration
+* Migrating personal user data from the company's previous database to a newer database
+* Finding and correcting errors in user data
+* Ensuring relevancy of the data
