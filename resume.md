@@ -33,9 +33,10 @@ Post Graduate Degree in Translation
     />
 </p>
 
+>
+>
+
 # Work Experience
->
->
 
 ## Solvay <i> August 2021 - Present </i>
 
@@ -58,6 +59,6 @@ Post Graduate Degree in Translation
 * Curating and publishing the knowledge in the company's internal library
 
 ### Data Migration
-* Migrating personal user data from the company's previous database to a newer database
+* Migrating user's personal data from the company's previous database to a newer database
 * Finding and correcting errors in user data
 * Ensuring relevancy of the data
