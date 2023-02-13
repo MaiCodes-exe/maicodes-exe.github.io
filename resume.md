@@ -36,3 +36,21 @@ Post Graduate Degree in Translation
 # Work Experience
 >
 >
+
+## Solvay
+<i> August 2021 - Present </i>
+
+<p align="center">
+    <img
+        alt="solvay logo"
+        src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogosandbrands.directory%2Fwp-content%2Fthemes%2Fdirectorypress%2Fthumbs%2FSolvay-logo.jpg&f=1&nofb=1&ipt=3dac5a4834fea224348850c7ffac497d926b4ee108955aa54419447904236da3&ipo=images"
+        width="300"
+    />
+</p>
+
+### HR Operations and Data Admin
+>
+>
+
+### HR Knowledge Coordinator
+### Data Migration
