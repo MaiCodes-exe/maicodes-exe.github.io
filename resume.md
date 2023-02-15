@@ -62,3 +62,6 @@ Post Graduate Degree in Translation
 * Migrating user's personal data from the company's previous database to a newer database
 * Finding and correcting errors in user data
 * Ensuring relevancy of the data
+
+
+
