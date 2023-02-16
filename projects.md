@@ -1,3 +1,5 @@
+<b>About</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
+
 # Projects
 
  >
