@@ -12,7 +12,7 @@
     <img
         alt="4geeks academy logo"
         src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgetonbrd-prod.s3.amazonaws.com%2Fuploads%2Fusers%2Flogo%2F6971%2F4geeks-icon-black.png&f=1&nofb=1&ipt=9961c437764ce5acbea4f62b90dcde8768c9d4087694b9248bfba7f1e09f70c3&ipo=images"
-        width="300"
+        width="280"
     />
 </p>
 
