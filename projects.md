@@ -15,7 +15,6 @@ Here's what the project looks like:
 
 <img alt="nannyhub" src="7c3on8.gif"  width="400"/> 
 
-
 <section></section>
 
 ## Waving Penguin
@@ -23,6 +22,15 @@ Here's what the project looks like:
 Here's what the project looks like:
 
 <img alt="penguin" src="7c3pu9.gif"  width="400"/> 
+
+
+<section></section>
+
+## Instagram Feed
+* Tech used: HTML, CSS
+Here's what the project looks like:
+
+<img alt="igfeed" src="7c3qup.gif"  width="400"/> 
 
 
 <section></section>
