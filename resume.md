@@ -68,7 +68,8 @@ Post Graduate Degree in Translation
 
 >
 >
-
+<section>
+</section>
 ## Language Line Solutions <i> June 2020 - December 2020 </i>
 ### HR Operations and Data Admin
 
