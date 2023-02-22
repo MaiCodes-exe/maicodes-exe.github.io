@@ -17,7 +17,7 @@
 </p>
 
 
-```
+<section> </section>
 
 >
 >
@@ -38,6 +38,9 @@ Post Graduate Degree in Translation
 
 >
 >
+
+<section> </section>
+<section> </section>
 
 # Work Experience
 
@@ -66,10 +69,8 @@ Post Graduate Degree in Translation
 * Finding and correcting errors in user data
 * Ensuring relevancy of the data
 
->
->
-<section>
-</section>
+
+<section> </section>
 ## Language Line Solutions <i> June 2020 - December 2020 </i>
 ### HR Operations and Data Admin
 
