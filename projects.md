@@ -17,6 +17,15 @@ Here's what the project looks like:
 
 <section></section>
 
+## Traffic Light
+* Tech used: HTML, CSS and JavaScript
+Here's what the project looks like:
+
+<img alt="light" src="7c3sjh.gif"  width="400"/> 
+
+
+<section></section>
+
 ## Waving Penguin
 * Tech used: HTML, CSS
 Here's what the project looks like:
