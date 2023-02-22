@@ -66,5 +66,16 @@ Post Graduate Degree in Translation
 * Finding and correcting errors in user data
 * Ensuring relevancy of the data
 
+>
+>
 
+## Language Line Solutions <i> June 2020 - December 2020 </i>
+### HR Operations and Data Admin
 
+<p align="center">
+    <img
+        alt="ll logo"
+        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.transact.com%2Fhs-fs%2Fhubfs%2FRefresh_-_TransACT_Logos%2F390x233%2FLanguageLine.png%3Fwidth%3D390%26height%3D233%26name%3DLanguageLine.png&f=1&nofb=1&ipt=e0f7358ef15f83f35debfa9e65b4def00f729740f4a217a17a1aab0da3a713ce&ipo=images"
+        width="300"
+    />
+</p>
