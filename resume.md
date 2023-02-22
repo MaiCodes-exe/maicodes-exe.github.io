@@ -18,7 +18,8 @@
 
 
 <section> </section>
-
+>
+>
 ## School of Arts and Humanities, University of Lisbon
 Bachelor's Degree in Languages and Literature (Minor in Translation and English studies)
 <i>September 2016 - January 2020</i>
