@@ -11,7 +11,7 @@
 <p align="center">
     <img
         alt="4geeks academy logo"
-        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbootcampadvisor.com%2Fwp-content%2Fuploads%2F2022%2F01%2F4Geeks-Academy-300x200.png&f=1&nofb=1&ipt=d89d4c43dcc886b0b35fb5fa09b61a8a70c4d42e396553becae2963ec1207d90&ipo=images"
+        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.typeform.com%2Fimages%2FrRMBw5V6ZzLz%2Fimage%2Fdefault&f=1&nofb=1&ipt=58bc4a682d2e7b580a0992db2e0b7db276b854ccaa7dd696aaae991776537302&ipo=images"
         width="260"
     />
 </p>
