@@ -72,7 +72,6 @@ Post Graduate Degree in Translation
 
 <section> </section>
 ## Language Line Solutions <i> June 2020 - December 2020 </i>
-### HR Operations and Data Admin
 
 <p align="center">
     <img
@@ -81,3 +80,6 @@ Post Graduate Degree in Translation
         width="300"
     />
 </p>
+### PT-ENG Real time interpreter
+* Real time interpretation from portuguese to english and vice verse.
+* Ensuring clear communication between the parties in different situations, such as doctor's appointments, customer service and counselling sessions.
