@@ -13,10 +13,16 @@ Here's a small list of the projects that I've done but you may find plenty more 
 * Tech used: HTML, CSS, BootStrap and JavaScript
 Here's what the project looks like:
 
-<img alt="Skyline Project" src="7c3on8.gif"  width="400"/> 
+<img alt="nannyhub" src="7c3on8.gif"  width="400"/> 
 
 
+<section></section>
 
+## Waving Penguin
+* Tech used: HTML, CSS
+Here's what the project looks like:
+
+<img alt="Skyline Project" src="7c3pu9.gif"  width="400"/> 
 
 
 <section></section>
