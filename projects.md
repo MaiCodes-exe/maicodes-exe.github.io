@@ -22,7 +22,7 @@ Here's what the project looks like:
 * Tech used: HTML, CSS
 Here's what the project looks like:
 
-<img alt="Skyline Project" src="7c3pu9.gif"  width="400"/> 
+<img alt="penguin" src="7c3pu9.gif"  width="400"/> 
 
 
 <section></section>
