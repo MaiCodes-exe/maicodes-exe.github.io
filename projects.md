@@ -14,7 +14,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <p>This ia collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
 Here's what the project looks like:
 
-<img alt="nannyhub" src="nannyhub.gif"  width="500" height="400"/> 
+<img alt="nannyhub" src="nannyhub.gif"  width="500"/> 
 
 <section></section>
 
