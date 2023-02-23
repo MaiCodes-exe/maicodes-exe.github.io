@@ -11,9 +11,10 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 ## NannyHub Website
 * Tech used: HTML, CSS, BootStrap and JavaScript
+<p>This ia collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
 Here's what the project looks like:
 
-<img alt="nannyhub" src="7c3on8.gif"  width="400"/> 
+<img alt="nannyhub" src="nannyhub.gif"  width="400"/> 
 
 <section></section>
 
@@ -21,7 +22,7 @@ Here's what the project looks like:
 * Tech used: HTML, CSS and JavaScript
 Here's what the project looks like:
 
-<img alt="light" src="7c3sjh.gif"  width="400"/> 
+<img alt="light" src="light.gif"  width="400"/> 
 
 
 <section></section>
@@ -30,7 +31,7 @@ Here's what the project looks like:
 * Tech used: HTML, CSS
 Here's what the project looks like:
 
-<img alt="penguin" src="7c3pu9.gif"  width="400"/> 
+<img alt="penguin" src="penguin.gif"  width="400"/> 
 
 
 <section></section>
@@ -39,7 +40,7 @@ Here's what the project looks like:
 * Tech used: HTML, CSS
 Here's what the project looks like:
 
-<img alt="igfeed" src="7c3qup.gif"  width="400"/> 
+<img alt="igfeed" src="photofeed.gif"  width="400"/> 
 
 
 <section></section>
