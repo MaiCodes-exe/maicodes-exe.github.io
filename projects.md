@@ -18,7 +18,8 @@ Here's what the project looks like:
 
 <section></section>
 
-<a href="https://github.com/MaiCodes-exe/trafficlightJSX">## Traffic Light </a>
+
+## Traffic Light <a href="https://github.com/MaiCodes-exe/trafficlightJSX">[Link]</a>
 * Tech used: HTML, CSS and JavaScript
 Here's what the project looks like:
 
