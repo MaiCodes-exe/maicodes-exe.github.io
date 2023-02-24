@@ -9,7 +9,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <section></section>
 
-## NannyHub Website
+## NannyHub Website <a href="https://github.com/nannyhub/NannysHub">[Link]</a>
 * Tech used: HTML, CSS, BootStrap and JavaScript
 <p>This ia collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
 Here's what the project looks like:
@@ -28,7 +28,7 @@ Here's what the project looks like:
 
 <section></section>
 
-## Waving Penguin
+## Waving Penguin <a href="https://github.com/MaiCodes-exe/wavingPenguin">[Link]</a>
 * Tech used: HTML, CSS
 Here's what the project looks like:
 
@@ -37,8 +37,8 @@ Here's what the project looks like:
 
 <section></section>
 
-## Instagram Feed
-* Tech used: HTML, CSS
+## Instagram Feed <a href="https://github.com/MaiCodes-exe/BootstrapInstagramFeed">[Link]</a>
+* Tech used: HTML, CSS and Bootstrap
 Here's what the project looks like:
 
 <img alt="igfeed" src="photofeed.gif"  width="400"/> 
@@ -46,7 +46,7 @@ Here's what the project looks like:
 
 <section></section>
 
-## City Skyline
+## City Skyline <a href="https://github.com/MaiCodes-exe/CitySkyline">[Link]</a>
 * Tech used: HTML, CSS
 
 Here's what the project looks like:
