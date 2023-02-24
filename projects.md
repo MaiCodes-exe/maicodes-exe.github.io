@@ -12,7 +12,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 ## NannyHub Website <a href="https://github.com/nannyhub/NannysHub">[Link]</a>
 * Tech used: HTML, CSS, BootStrap and JavaScript
 <p>This ia collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
-Here's what the project looks like:
+<p>Here's what the project looks like:</p>
 
 <img alt="nannyhub" src="nannyhub.gif"  width="500"/> 
 
@@ -21,7 +21,7 @@ Here's what the project looks like:
 
 ## Traffic Light <a href="https://github.com/MaiCodes-exe/trafficlightJSX">[Link]</a>
 * Tech used: HTML, CSS and JavaScript
-Here's what the project looks like:
+<p>Here's what the project looks like:</p>
 
 <img alt="light" src="light.gif"  width="400"/> 
 
@@ -30,7 +30,7 @@ Here's what the project looks like:
 
 ## Waving Penguin <a href="https://github.com/MaiCodes-exe/wavingPenguin">[Link]</a>
 * Tech used: HTML, CSS
-Here's what the project looks like:
+<p>Here's what the project looks like:</p>
 
 <img alt="penguin" src="penguin.gif"  width="400"/> 
 
@@ -39,7 +39,7 @@ Here's what the project looks like:
 
 ## Instagram Feed <a href="https://github.com/MaiCodes-exe/BootstrapInstagramFeed">[Link]</a>
 * Tech used: HTML, CSS and Bootstrap
-Here's what the project looks like:
+<p>Here's what the project looks like:</p>
 
 <img alt="igfeed" src="photofeed.gif"  width="400"/> 
 
@@ -48,7 +48,6 @@ Here's what the project looks like:
 
 ## City Skyline <a href="https://github.com/MaiCodes-exe/CitySkyline">[Link]</a>
 * Tech used: HTML, CSS
-
-Here's what the project looks like:
+<p>Here's what the project looks like:</p>
 
 <img alt="Skyline Project" src="7b0pyu.gif"  width="400"/> 
