@@ -9,7 +9,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <section></section>
 
-## NannyHub Website
+## NannyHub Website <i>link<a href="https://github.com/MaiCodes-exe/landingpageJSX"> </a></i>
 * Tech used: HTML, CSS, BootStrap and JavaScript
 <p>This ia collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
 Here's what the project looks like:
