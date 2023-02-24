@@ -2,8 +2,7 @@
 <b>[About](./about.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
 
 # Education
->
->
+<section> </section>
 ## 4Geeks Academy FullStack Bootcamp
 <i>November 2021 - April 2022</i>
 <p><a href="https://certificate.4geeks.com/c62c45a00db20f4c0f55d9cd3990df86a7942853">Certificate </a></p>
@@ -18,8 +17,7 @@
 
 
 <section> </section>
->
->
+
 ## School of Arts and Humanities, University of Lisbon
 Bachelor's Degree in Languages and Literature (Minor in Translation and English studies)
 <i>September 2016 - January 2020</i>
