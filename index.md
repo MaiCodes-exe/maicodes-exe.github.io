@@ -7,4 +7,4 @@ layout: default
 
 <p>Hi there. Welcome to my portfolio</p>
 
-<p>Please feel free to contact me on </p>
+<p>Please feel free to contact me using any of these </p>
