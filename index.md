@@ -4,7 +4,8 @@ layout: default
 
 <b>[About](./about.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
 
-<p>Hi there. Welcome to my portfolio</p>
+<p>Hi there. ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Welcome to my portfolio</p>
 
 <p>Please feel free to contact me using any of these </p>
 <p align="center">
