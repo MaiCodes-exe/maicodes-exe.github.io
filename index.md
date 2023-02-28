@@ -12,7 +12,15 @@ layout: default
     <a href="https://github.com/maicodes-exe">     
       <img
         alt="my GitHub Profile"
-        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.macobserver.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fworkfeatured-GitHub-2.png&f=1&nofb=1&ipt=66184c3a05bb1edc7bbd3b831c9c47f4aa1d8a5915158bdaa4b00c3827128e75&ipo=images"
+        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ckeUFk-yid0vfWnd56w7wAHaHa%26pid%3DApi&f=1&ipt=1b7c6ee2c4e94d55bff24573ab7534a4db0a27111893b990049cee59752b2ee8&ipo=images"
+        width="50"
+        style="padding-left:5px;"
+      />
+    </a>
+       <a href="https://github.com/maicodes-exe">     
+      <img
+        alt="my GitHub Profile"
+        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ckeUFk-yid0vfWnd56w7wAHaHa%26pid%3DApi&f=1&ipt=1b7c6ee2c4e94d55bff24573ab7534a4db0a27111893b990049cee59752b2ee8&ipo=images"
         width="50"
         style="padding-left:5px;"
       />
