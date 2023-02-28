@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About
-<b>About</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
+<b>[About](./about.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
 
 <p>Hi there. Welcome to my portfolio</p>
 
