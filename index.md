@@ -4,14 +4,18 @@ layout: default
 
 <b>[About](./about.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
 
-<p>Hi there.Welcome to my portfolio</p>
+<p>Hi there</p>
+
+<p>Welcome to my portfolio and thank you for stopping by.</p>
 
 <!-- ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
 
-<p>Please feel free to contact me using any of these </p>
-<p align="center">
+<p>Please feel free to contact me/ connecting with me using any of these: </p>
+
+<div class="container justify-content-start">
+<p>
     <a href="https://github.com/maicodes-exe">     
       <img
         alt="my GitHub Profile"
@@ -29,3 +33,4 @@ layout: default
       />
     </a>
 </p>
+</div>
