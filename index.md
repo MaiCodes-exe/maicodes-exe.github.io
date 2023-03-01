@@ -8,10 +8,7 @@ layout: default
 
 <p>Welcome to my portfolio and thank you for stopping by.</p>
 
-<!-- ### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-
+<!-- 
 <p>Please feel free to contact me/ connecting with me using any of these: </p>
 
 <div class="container justify-content-start">
@@ -33,4 +30,4 @@ layout: default
       />
     </a>
 </p>
-</div>
+</div> -->
