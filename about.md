@@ -13,4 +13,7 @@ During my second semester, I randomly signed up for a linguistics class because 
 Among the many things that were said by the professor, the thing grabbed my attention was the fact that in linguistics, technology could paired with language. This discovery made me sign up for classes like Psycholinguistics, Computacional linguistics and Translation for media.
 
 Although my media translation class did use software (Trados), it was a program that needs to be fed information before it was truly useful.
-During my Computacional linguistics class, I learned some Python basics and it blew my mind! Outside of my courseload, I started looking for self paced courses so I could learn more about programming. 
+During my Computacional linguistics class, I learned some Python basics and it blew my mind! Besides my courseload, I started looking for self paced courses so I could learn more about programming. So in 2021 I decided to teach myself how to code.
+
+
+If you'd like to get in touch with me please email me at [maise.b.costa@gmail.com](mailto:maise.b.costa@gmail.com).
