@@ -12,4 +12,5 @@ This silly hobby of mine lead me to studying languages in higher education. Duri
 During my second semester, I randomly signed up for a linguistics class because I wanted some easy credits. 
 Among the many things that were said by the professor, the thing grabbed my attention was the fact that in linguistics, technology could paired with language. This discovery made me sign up for classes like Psycholinguistics, Computacional linguistics and Translation for media.
 
+Although my media translation class did use software (Trados), it was a program that needs to be fed information before it was truly useful.
 During my Computacional linguistics class, I learned some Python basics and it blew my mind! Outside of my courseload, I started looking for self paced courses so I could learn more about programming. 
