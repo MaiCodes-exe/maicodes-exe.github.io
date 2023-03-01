@@ -10,10 +10,16 @@ Throughout the years I developed one big interest that started out as an hobby. 
 
 This silly hobby of mine lead me to studying languages in higher education. During my college years, I was convinced that I would go there, follow my plan and graduate, with no detours.
 During my second semester, I randomly signed up for a linguistics class because I wanted some easy credits. 
-Among the many things that were said by the professor, the thing grabbed my attention was the fact that in linguistics, technology could paired with language. This discovery made me sign up for classes like Psycholinguistics, Computacional linguistics and Translation for media.
+Among the many things that were said by the professor, the thing grabbed my attention was the fact that in linguistics, technology could be paired with language. This discovery made me sign up for classes like Psycholinguistics, Computacional linguistics and Translation for media.
 
-Although my media translation class did use software (Trados), it was a program that needs to be fed information before it was truly useful.
-During my Computacional linguistics class, I learned some Python basics and it blew my mind! Besides my courseload, I started looking for self paced courses so I could learn more about programming. So in 2021 I decided to teach myself how to code.
+Although my translation for media class did use software (Trados), it was a tool that needs to be fed information before it was truly useful.
+During my Computacional linguistics class, I learned some Python basics and it blew my mind! Besides my courseload, I started looking for self paced courses to learn more about programming. So, in 2021 I decided to teach myself how to code.
+
+My self paced journey was not what I expected, as I took a lot of breaks and felt very unmotivated to complete the course that I was taking. But I was determined to learn, so I signed up for a fullstack coding bootcamp. I chose this route because I thought having a curriculum that was designed to help people start from 0 was much more useful to me than trying to figure out a roadmap on my own. This was the point when I realized I preferred front-end to back-end. 
+
+After completing my bootcamp, I did not try to break in tech because at the time I was working in a corporate setting and I felt scared to leave the safety of that environment. 
+
+And that brings us to now. I am currently studying on my own pace while I'm looking to get my first role in the tech industry.
 
 
 If you'd like to get in touch with me please reach me by [email](mailto:maise.b.costa@gmail.com).
