@@ -16,4 +16,4 @@ Although my media translation class did use software (Trados), it was a program 
 During my Computacional linguistics class, I learned some Python basics and it blew my mind! Besides my courseload, I started looking for self paced courses so I could learn more about programming. So in 2021 I decided to teach myself how to code.
 
 
-If you'd like to get in touch with me please email me at [maise.b.costa@gmail.com](mailto:maise.b.costa@gmail.com).
+If you'd like to get in touch with me please email me using [my gmail](mailto:maise.b.costa@gmail.com).
