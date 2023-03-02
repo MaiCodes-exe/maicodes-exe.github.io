@@ -19,7 +19,8 @@ My self paced journey was not what I expected, as I took a lot of breaks and fel
 
 After completing my bootcamp, I did not try to break in tech because at the time I was working in a corporate setting and I felt scared to leave the safety of that environment. 
 
-And that brings us to now. I am currently studying on my own pace while I'm looking to get my first role in the tech industry.
+And that brings us to now. I decided that 2023 will be the year that I can transition into this industry.
+I am still studying on my own pace while I'm looking to get my first role in the tech industry.
 
 
 If you'd like to get in touch with me please reach me by [email](mailto:maise.b.costa@gmail.com).
