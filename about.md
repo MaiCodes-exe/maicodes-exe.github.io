@@ -15,7 +15,7 @@ Among the many things that were said by the professor, the thing grabbed my atte
 Although my translation for media class did use software (Trados), it was a tool that needs to be fed information before it was truly useful.
 During my Computacional linguistics class, I learned some Python basics and it blew my mind! Besides my courseload, I started looking for self paced courses to learn more about programming. So, in 2021 I decided to teach myself how to code.
 
-My self paced journey was not what I expected, as I took a lot of breaks and felt very unmotivated to complete the course that I was taking. But I was determined to learn, so I signed up for a fullstack coding bootcamp. I chose this route because I thought having a curriculum that was designed to help people start from 0 was much more useful to me than trying to figure out a roadmap on my own. This was the point when I realized I preferred front-end to back-end. 
+My self paced journey was not what I expected, as I took a lot of breaks and felt very unmotivated to complete the course that I was taking. But I was determined to learn, so I enrolled in a fullstack coding bootcamp. I chose this route because I thought having a curriculum that was designed to help people start from 0 was much more useful to me than trying to figure out a roadmap on my own. This was the point when I realized I preferred front-end to back-end. 
 
 After completing my bootcamp, I did not try to break in tech because at the time I was working in a corporate setting and I felt scared to leave the safety of that environment. 
 
