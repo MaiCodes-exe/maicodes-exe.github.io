@@ -17,10 +17,10 @@ During my Computacional linguistics class, I learned some Python basics and it b
 
 My self paced journey was not what I expected, as I took a lot of breaks and felt very unmotivated to complete the course that I was taking. But I was determined to learn, so I enrolled in a fullstack coding bootcamp. I chose this route because I thought having a curriculum that was designed to help people start from 0 was much more useful to me than trying to figure out a roadmap on my own. This was the point when I realized I preferred front-end to back-end. 
 
-After completing my bootcamp, I did not try to break in tech because at the time I was working in a corporate setting and I felt scared to leave the safety of that environment. 
+After completing my bootcamp, I did not try to break in tech because at the time I was working in a corporate setting and I felt reluctant to leave the safety of that environment. 
 
-And that brings us to now. I decided that 2023 will be the year that I can transition into this industry.
-I am still studying on my own pace while I'm looking to get my first role in the tech industry.
+And that brings us to now. I decided that 2023 will be the year that I will transition into this industry.
+Currently, I am still studying on my own pace while I'm looking to get my first role in the tech industry.
 
-
+Please feel free to check my resume and my highlighted projects in my project section.
 If you'd like to get in touch with me please reach me by [email](mailto:maise.b.costa@gmail.com).
