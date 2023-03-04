@@ -6,7 +6,7 @@ layout: default
 
 <p>Hi there</p>
 
-<p>Welcome to my portfolio and thank you for stopping by.</p>
+<p>Thank you for stopping by and welcome</p>
 
 <!-- 
 <p>Please feel free to contact me/ connecting with me using any of these: </p>
