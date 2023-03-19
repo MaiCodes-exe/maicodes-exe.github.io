@@ -7,7 +7,7 @@ layout: default
 <p>Hi there</p>
 
 <p>Thank you for stopping by and welcome to my portfolio</p>
-<p>Feel free to learn more about my tech journey on my about page, and check my resume and highlighted projects</p>
+<p>Feel free to learn more about my tech journey on my about page, you can also check my resume and highlighted projects</p>
 
 <!-- 
 <p>Please feel free to contact me/ connecting with me using any of these: </p>
