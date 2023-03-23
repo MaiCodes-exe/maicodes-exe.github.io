@@ -1,4 +1,4 @@
-<b>[About](./about.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
+<b>[About](./about.html)</b> | <b>[Resume](./resume.html)</b> | <b>[Projects](./projects.html) </b>
 
 Hello and welcome to my portfolio. My name is Maise, but you may see me using Mai online. I am currently based in Lisbon, Portugal.
 
