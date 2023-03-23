@@ -19,6 +19,13 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <section></section>
 
 
+## Clock <a href="https://github.com/MaiCodes-exe/clock">[Link]</a>
+* Tech used: HTML, CSS and JavaScript
+<p>Here's what the project looks like:</p>
+
+<img alt="clock" src="clock.gif"  width="400"/> 
+
+
 ## Traffic Light <a href="https://github.com/MaiCodes-exe/trafficlightJSX">[Link]</a>
 * Tech used: HTML, CSS and JavaScript
 <p>Here's what the project looks like:</p>
