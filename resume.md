@@ -41,7 +41,7 @@ Post Graduate Degree in Translation
 
 # Work Experience
 
-## Solvay <i> August 2021 - Present </i>
+## Solvay <i> August 2021 - March 2023 </i>
 
 <p align="center">
     <img
