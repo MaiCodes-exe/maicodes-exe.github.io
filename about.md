@@ -1,4 +1,4 @@
-<b>[About](./about.html)</b> | <b>[Resume](./resume.html)</b> | <b>[Projects](./projects.html) </b>
+<!-- <b>[About](./about.html)</b> | <b>[Resume](./resume.html)</b> | <b>[Projects](./projects.html) </b>
 
 Hello and welcome to my portfolio. My name is Maise, but you may see me using Mai online. I am currently based in Lisbon, Portugal.
 
@@ -23,4 +23,4 @@ And that brings us to now. I decided that 2023 will be the year that I will tran
 Currently, I am still studying on my own pace while I'm looking to get my first role in the tech industry.
 
 Please feel free to check my resume and my highlighted projects in my project section.
-If you'd like to get in touch with me please reach me by [email](mailto:maise.b.costa@gmail.com).
+If you'd like to get in touch with me please reach me by [email](mailto:maise.b.costa@gmail.com). -->
