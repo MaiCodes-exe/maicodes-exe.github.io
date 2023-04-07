@@ -36,6 +36,16 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <section></section>
 
+## Memory Game <a href="https://github.com/MaiCodes-exe/memory-game">[Link]</a>
+* This project uses HTML, CSS, JavaScript Dom to find matches within the cards
+<p>Here's what the project looks like:</p>
+
+<img alt="memory-game" src=""  width="400"/> 
+
+
+<section></section>
+
+
 
 ## Waving Penguin <a href="https://github.com/MaiCodes-exe/wavingPenguin">[Link]</a>
 * Tech used: HTML, CSS
