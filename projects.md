@@ -29,22 +29,23 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <section></section>
 
+## Instagram Feed <a href="https://github.com/MaiCodes-exe/BootstrapInstagramFeed">[Link]</a>
+* Tech used: HTML, CSS and Bootstrap
+<p>Here's what the project looks like:</p>
+
+<img alt="igfeed" src="photofeed.gif"  width="400"/> 
+
+<section></section>
+
 
 ## Clock <a href="https://github.com/MaiCodes-exe/clock">[Link]</a>
 * Tech used: HTML, CSS and JavaScript
 <p>Here's what the project looks like:</p>
 
 <img alt="clock" src="clock.gif"  width="300"/> 
-
-
-## Traffic Light <a href="https://github.com/MaiCodes-exe/trafficlightJSX">[Link]</a>
-* Tech used: HTML, CSS and JavaScript
-<p>Here's what the project looks like:</p>
-
-<img alt="light" src="light.gif"  width="400"/> 
-
-
 <section></section>
+
+
 
 
 
@@ -57,17 +58,22 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <section></section>
 
-## Instagram Feed <a href="https://github.com/MaiCodes-exe/BootstrapInstagramFeed">[Link]</a>
-* Tech used: HTML, CSS and Bootstrap
-<p>Here's what the project looks like:</p>
 
-<img alt="igfeed" src="photofeed.gif"  width="400"/> 
-
-
-<section></section>
 
 ## City Skyline <a href="https://github.com/MaiCodes-exe/CitySkyline">[Link]</a>
 * Tech used: HTML, CSS
 <p>Here's what the project looks like:</p>
 
 <img alt="Skyline Project" src="7b0pyu.gif"  width="400"/> 
+<section></section>
+
+
+
+## Traffic Light <a href="https://github.com/MaiCodes-exe/trafficlightJSX">[Link]</a>
+* Tech used: HTML, CSS and JavaScript
+<p>Here's what the project looks like:</p>
+
+<img alt="light" src="light.gif"  width="400"/> 
+
+
+<section></section>
