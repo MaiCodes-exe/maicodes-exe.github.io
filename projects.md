@@ -20,6 +20,16 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <section></section>
 
 
+## Conect Four <a href="https://github.com/MaiCodes-exe/connect-four">[Link]</a>
+* This project uses HTML, CSS, JavaScript Dom to determine which player is the first to connect 5 chips
+<p>Here's what the project looks like:</p>
+
+<img alt="connect-four" src="connectfour.png"  width="400"/> 
+
+
+<section></section>
+
+
 ## Clock <a href="https://github.com/MaiCodes-exe/clock">[Link]</a>
 * Tech used: HTML, CSS and JavaScript
 <p>Here's what the project looks like:</p>
@@ -32,15 +42,6 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <p>Here's what the project looks like:</p>
 
 <img alt="light" src="light.gif"  width="400"/> 
-
-
-<section></section>
-
-## Coonect Four <a href="https://github.com/MaiCodes-exe/connect-four">[Link]</a>
-* This project uses HTML, CSS, JavaScript Dom to determine which player is the first to connect 5 chips
-<p>Here's what the project looks like:</p>
-
-<img alt="connect-four" src="connectfour.png"  width="400"/> 
 
 
 <section></section>
