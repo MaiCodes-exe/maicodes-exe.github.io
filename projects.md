@@ -33,7 +33,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 * This project is a classic sliding game that uses HTML, CSS, JavaScript loops and Dom. In this game the player must use the arrows in the keyboard to combine the tiles to reach the 2048 tile and win.
 <p>Here's what the project looks like:</p>
 
-<img alt="2048" src="2048.png"  width="500"/> 
+<img alt="2048" src="2048.png"  width="500" style="float:left"/> 
 
 
 <section></section>
