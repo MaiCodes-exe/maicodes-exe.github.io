@@ -15,7 +15,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <p>This is a collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
 <p>Here's what the project looks like:</p>
 
-<img alt="nannyhub" src="nannyhub.gif"  width="500"/> 
+<img alt="nannyhub" src="nannyhub.gif"  width="500" style="float:left"/> 
 
 <section></section>
 
@@ -24,7 +24,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 * This project is a classic game that uses HTML, CSS, JavaScript Dom to determine which player is the first to connect 4 chips of the same color.
 <p>Here's what the project looks like:</p>
 
-<img alt="connect-four" src="connectfour.png"  width="500"/> 
+<img alt="connect-four" src="connectfour.png"  width="500" style="float:left"/> 
 
 
 <section></section>
@@ -45,7 +45,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 * Tech used: HTML, CSS and Bootstrap
 <p>Here's what the project looks like:</p>
 
-<img alt="igfeed" src="photofeed.gif"  width="400"/> 
+<img alt="igfeed" src="photofeed.gif"  width="400" style="float:left"/> 
 
 <section></section>
 
@@ -54,7 +54,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 * Tech used: HTML, CSS and JavaScript
 <p>Here's what the project looks like:</p>
 
-<img alt="clock" src="clock.gif"  width="300"/> 
+<img alt="clock" src="clock.gif"  width="300" style="float:left"/> 
 <section></section>
 
 
@@ -65,7 +65,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 * Tech used: HTML, CSS
 <p>Here's what the project looks like:</p>
 
-<img alt="penguin" src="penguin.gif"  width="400"/> 
+<img alt="penguin" src="penguin.gif"  width="400" style="float:left"/> 
 
 
 <section></section>
@@ -76,7 +76,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 * Tech used: HTML, CSS
 <p>Here's what the project looks like:</p>
 
-<img alt="Skyline Project" src="7b0pyu.gif"  width="400"/> 
+<img alt="Skyline Project" src="7b0pyu.gif"  width="400" style="float:left"/> 
 <section></section>
 
 
@@ -85,7 +85,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 * Tech used: HTML, CSS and JavaScript
 <p>Here's what the project looks like:</p>
 
-<img alt="light" src="light.gif"  width="400"/> 
+<img alt="light" src="light.gif"  width="400" style="float:left"/> 
 
 
 <section></section>
