@@ -20,7 +20,10 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <section></section>
 
 
-## Conect Four <a href="https://github.com/MaiCodes-exe/connect-four">[Link]</a>
+## Conect Four <a href="https://connect-four-javascript-game.netlify.app/">[Link]</a>
+
+
+<a href="https://github.com/MaiCodes-exe/connect-four">[Link]</a>
 * This project is a classic game that uses HTML, CSS, JavaScript Dom to determine which player is the first to connect 4 chips of the same color.
 <p>Here's what the project looks like:</p>
 
