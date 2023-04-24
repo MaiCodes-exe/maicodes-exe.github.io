@@ -23,7 +23,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 ## Conect Four <a href="https://connect-four-javascript-game.netlify.app/">[Link]</a>
 
 
-<a href="https://github.com/MaiCodes-exe/connect-four">[Link]</a>
+<!-- <a href="https://github.com/MaiCodes-exe/connect-four">[Link]</a> -->
 * This project is a classic game that uses HTML, CSS, JavaScript Dom to determine which player is the first to connect 4 chips of the same color.
 <p>Here's what the project looks like:</p>
 
@@ -34,7 +34,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 ## 2048 <a href="https://2048javacriptgame.netlify.app/"> [Link]</a>
 
-<a href="https://github.com/MaiCodes-exe/2048"> [Link]</a>
+<!-- <a href="https://github.com/MaiCodes-exe/2048"> [Link]</a> -->
 * This project is a classic sliding game that uses HTML, CSS, JavaScript loops and Dom. In this game the player must use the arrows in the keyboard to combine the tiles to reach the 2048 tile and win.
 <p>Here's what the project looks like:</p>
 
