@@ -10,7 +10,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <section></section>
 
-## NannyHub Website <a href="https://github.com/nannyhub/NannysHub">[Link]</a>
+## NannyHub Website 
+<p> Repository <a href="https://github.com/nannyhub/NannysHub">[Link]</a></p>
 * Tech used: HTML, CSS, BootStrap and JavaScript
 <p>This is a collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
 <p>Here's what the project looks like:</p>
@@ -46,7 +47,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 
-## Instagram Feed <a href="https://github.com/MaiCodes-exe/BootstrapInstagramFeed">[Link]</a>
+## Instagram Feed 
+<p>Repository <a href="https://github.com/MaiCodes-exe/BootstrapInstagramFeed">[Link]</a></p>
 * Tech used: HTML, CSS and Bootstrap
 <p>Here's what the project looks like:</p>
 
@@ -55,7 +57,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <section></section>
 
 
-## Clock <a href="https://github.com/MaiCodes-exe/clock">[Link]</a>
+## Clock 
+<p>Repository <a href="https://github.com/MaiCodes-exe/clock">[Link]</a></p>
 * Tech used: HTML, CSS and JavaScript
 <p>Here's what the project looks like:</p>
 
@@ -66,7 +69,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 
-## Waving Penguin <a href="https://github.com/MaiCodes-exe/wavingPenguin">[Link]</a>
+## Waving Penguin 
+<p>Repository <a href="https://github.com/MaiCodes-exe/wavingPenguin">[Link]</a></p>
 * Tech used: HTML, CSS
 <p>Here's what the project looks like:</p>
 
@@ -77,7 +81,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 
-## City Skyline <a href="https://github.com/MaiCodes-exe/CitySkyline">[Link]</a>
+## City Skyline 
+<p>Repository<a href="https://github.com/MaiCodes-exe/CitySkyline">[Link]</a></p>
 * Tech used: HTML, CSS
 <p>Here's what the project looks like:</p>
 
@@ -86,7 +91,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 
-## Traffic Light <a href="https://github.com/MaiCodes-exe/trafficlightJSX">[Link]</a>
+## Traffic Light 
+<p>Repository<a href="https://github.com/MaiCodes-exe/trafficlightJSX">[Link]</a></p>
 * Tech used: HTML, CSS and JavaScript
 <p>Here's what the project looks like:</p>
 
