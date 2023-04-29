@@ -47,7 +47,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 
-## Instagram Feed 
+## Instagram Feed <a href="https://bootstrapinstafeed.netlify.app/"> [Link]</a>
 <p>Repository <a href="https://github.com/MaiCodes-exe/BootstrapInstagramFeed">[Link]</a></p>
 * Tech used: HTML, CSS and Bootstrap
 <p>Here's what the project looks like:</p>
