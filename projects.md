@@ -21,6 +21,18 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <section></section>
 
 
+## Shareblr <a href="https://travelsitemockup.netlify.app/">[Link]</a>
+
+
+<p> Repository <a href="https://github.com/MaiCodes-exe/mockup">[Link]</a></p>
+* Tech used: HTML, CSS,  and JavaScript
+<p>This is a mock up project of a travel website</p>
+<p>Here's what the project looks like:</p>
+
+<img alt="travel" src="mockup.png"  width="500"/> 
+
+<section></section>
+
 
 
 ## TravelBuddy <a href="https://travelsitemockup.netlify.app/">[Link]</a>
