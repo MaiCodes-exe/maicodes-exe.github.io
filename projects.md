@@ -21,15 +21,15 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <section></section>
 
 
-## Shareblr <a href="https://travelsitemockup.netlify.app/">[Link]</a>
+## Shareblr <a href="https://shareblr-maicodes-exe.vercel.app/">[Link]</a>
 
 
-<p> Repository <a href="https://github.com/MaiCodes-exe/mockup">[Link]</a></p>
+<p> Repository <a href="https://github.com/MaiCodes-exe/socialmockup">[Link]</a></p>
 * Tech used: ReactJS and MaterialUI 
 <p>This is a mock up project of a social media website</p>
 <p>Here's what the project looks like:</p>
 
-<img alt="shareblr" src="mockup.png"  width="500"/> 
+<img alt="shareblr" src="shareblr.png"  width="500"/> 
 
 <section></section>
 
