@@ -25,11 +25,11 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 <p> Repository <a href="https://github.com/MaiCodes-exe/mockup">[Link]</a></p>
-* Tech used: HTML, CSS,  and JavaScript
-<p>This is a mock up project of a travel website</p>
+* Tech used: ReactJS and MaterialUI 
+<p>This is a mock up project of a social media website</p>
 <p>Here's what the project looks like:</p>
 
-<img alt="travel" src="mockup.png"  width="500"/> 
+<img alt="shareblr" src="mockup.png"  width="500"/> 
 
 <section></section>
 
