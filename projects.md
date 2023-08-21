@@ -12,7 +12,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 ## NannyHub Website 
 <p> GitHub Repository <a href="https://github.com/nannyhub/NannysHub">[Link]</a></p>
-* Tech used: HTML, CSS, BootStrap and JavaScript
+* Tech used: HTML, CSS, BootStrap and ReactJs.
 <p>This is a collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
 <p>Here's what the project looks like:</p>
 
@@ -25,7 +25,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <p> GitHub Repository <a href="https://github.com/MaiCodes-exe/socialmockup">[Link]</a></p>
 * Tech used: ReactJS and MaterialUI 
-<p>This is a mock up project of a social media website</p>
+<p>This is a mock up project of a social media platform</p>
 <p>Here's what the project looks like:</p>
 
 <img alt="shareblr" src="shareblr.png"  width="500"/> 
@@ -36,9 +36,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 ## TravelBuddy <a href="https://travelsitemockup.netlify.app/">[Link]</a>
 
-
-<p> Repository <a href="https://github.com/MaiCodes-exe/mockup">[Link]</a></p>
-* Tech used: HTML, CSS,  and JavaScript
+<p> GitHub Repository <a href="https://github.com/MaiCodes-exe/mockup">[Link]</a></p>
+* Tech used: HTML, CSS, BootStrap  and JavaScript
 <p>This is a mock up project of a travel website</p>
 <p>Here's what the project looks like:</p>
 
