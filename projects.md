@@ -11,7 +11,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 <section></section>
 
 ## NannyHub Website 
-<p> Repository <a href="https://github.com/nannyhub/NannysHub">[Link]</a></p>
+<p> GitHub Repository <a href="https://github.com/nannyhub/NannysHub">[Link]</a></p>
 * Tech used: HTML, CSS, BootStrap and JavaScript
 <p>This is a collaborative project made by me and the rest of my group during the bootcamp but I did the majority of the front-end and the design of the website</p>
 <p>Here's what the project looks like:</p>
