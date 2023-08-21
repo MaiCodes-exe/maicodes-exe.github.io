@@ -83,7 +83,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 ## Clock 
-<p>Repository <a href="https://github.com/MaiCodes-exe/clock">[Link]</a></p>
+<p> GitHub Repository <a href="https://github.com/MaiCodes-exe/clock">[Link]</a></p>
 * Tech used: HTML, CSS and JavaScript
 <p>Here's what the project looks like:</p>
 
@@ -95,7 +95,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 ## Waving Penguin 
-<p>Repository <a href="https://github.com/MaiCodes-exe/wavingPenguin">[Link]</a></p>
+<p> GitHubRepository <a href="https://github.com/MaiCodes-exe/wavingPenguin">[Link]</a></p>
 * Tech used: HTML, CSS
 <p>Here's what the project looks like:</p>
 
