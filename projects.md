@@ -23,8 +23,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 ## Shareblr <a href="https://shareblr-maicodes-exe.vercel.app/">[Link]</a>
 
-
-<p> Repository <a href="https://github.com/MaiCodes-exe/socialmockup">[Link]</a></p>
+<p> GitHub Repository <a href="https://github.com/MaiCodes-exe/socialmockup">[Link]</a></p>
 * Tech used: ReactJS and MaterialUI 
 <p>This is a mock up project of a social media website</p>
 <p>Here's what the project looks like:</p>
