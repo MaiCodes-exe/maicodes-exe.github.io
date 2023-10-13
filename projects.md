@@ -13,7 +13,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 ## UX/UI Music Player Project
 * Tech used: Figma
 
-<p> This a music player project that I created for my UX/UI certifications from the first low fidelity wireframe to the latest version</p>
+<p> This a music player project that I created for my Google UX/UI certification, from the first low fidelity wireframe to the latest version</p>
+
 <p>This is the very first wireframe I have done for this project:</p>
 
 <img alt="wireframe1" src="musicplayer1.png" width="600"/> 
@@ -21,6 +22,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <p>This is a second version of the UI. I choose to use a cartoonish approach rather than use a more realistic theme.:</p>
 
+<img alt="wireframe2" src="musicplayer2.png" width="600"/> 
 
 
 
