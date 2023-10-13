@@ -15,6 +15,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <p> This a music player project that I created for my UX/UI certifications from the first low fidelity wireframe to the latest version</p>
 
+<p>This is the very first wireframe I have done for this project:</p>
 
 
 
