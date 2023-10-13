@@ -10,9 +10,10 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <section></section>
 
-## UX/UI Project
+## UX/UI Music Player Project
+* Tech used: Figma
 
-
+<p> This a music player project that I created for my UX/UI certifications from the first low fidelity wireframe to the latest version</p>
 
 
 
