@@ -17,7 +17,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <p>This is the very first wireframe I have done for this project:</p>
 
-<img alt="wireframe1" src="musicplayer1.png"  width="500"/> 
+<img alt="wireframe1" src="musicplayer1.png" height="400" width="600"/> 
 
 
 
