@@ -24,6 +24,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <img alt="wireframe2" src="musicplayer2.png" width="600"/> 
 
+<section></section>
 
 
 
