@@ -27,8 +27,8 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 
 <p>This is a third version of the UI. I added a more frames to improve to workflow of the app and I redesigned the search page frame. Here's a side by side:</p>
-<img alt="search page first version" src="search1.png" width="600"/> 
-<img alt="search page second versions" src="search2.png" width="600"/> 
+<img alt="search page first version" src="search.png" width="600"/> 
+<img alt="search page second versions" src="search1.png" width="600"/> 
 
 
 
