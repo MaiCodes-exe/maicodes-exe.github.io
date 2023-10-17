@@ -28,15 +28,16 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <p>This is a third version of the UI. I added a more frames to improve to workflow of the app and I redesigned the search page frame. Here's a side by side:</p>
 
-<div width="600">
+<div>
 <img alt="search page first version" src="search.png" width="300"/> 
 <img alt="search page second versions" src="search1.png" width="300"/> 
 </div>
 
 
 
+<p>Here's a complete view of the third version of the project</p>
 
-<img alt="wireframe3" src="musicplayer3.png" width="600"/> 
+<img alt="wireframe3" src="musicplayer3.png" width="700"/> 
 
 
 <section></section>
