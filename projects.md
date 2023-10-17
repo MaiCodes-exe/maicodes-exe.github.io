@@ -30,6 +30,7 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <div>
 <img alt="search page first version" src="search.png" width="100"/> 
+<section> </section>
 <img alt="search page second versions" src="search1.png" width="100"/> 
 </div>
 
