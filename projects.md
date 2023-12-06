@@ -10,40 +10,6 @@ Here's a small list of the projects that I've done but you may find plenty more 
 
 <section></section>
 
-## UX/UI Music Player Project [ON GOING PROJECT]
-* Tech used: Figma
-
-<p> This a music player project that I created for my Google UX/UI certification, from the first low fidelity wireframe to the latest version</p>
-
-<p>This is the very first wireframe I have done for this project:</p>
-
-<img alt="wireframe1" src="musicplayer1.png" width="600"/> 
-
-
-<p>This is a second version of the UI. I choose to use a cartoonish approach rather than use a more realistic theme:</p>
-
-<img alt="wireframe2" src="musicplayer2.png" width="600"/> 
-
-
-
-<p>This is a third version of the UI. I added a more frames to improve to workflow of the app and I redesigned the search page frame. Here's a side by side:</p>
-
-<div>
-<img alt="search page first version" src="search.png" width="100"/> 
-<section> </section>
-<img alt="search page second versions" src="search1.png" width="100"/> 
-</div>
-
-
-
-<p>Here's a complete view of the third version of the project</p>
-
-<img alt="wireframe3" src="musicplayer3.png" width="700"/> 
-
-
-<section></section>
-
-
 
 
 ## NannyHub Website 
